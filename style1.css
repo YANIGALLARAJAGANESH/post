@@ -1,0 +1,25 @@
+.bgimg{
+	background-image: url('https://res.cloudinary.com/dswzta8jh/image/upload/v1672241405/AG-Football-Boots_awmgr0.jpg');
+	background-size: cover;
+	height: 100vh;
+	margin: 1px;
+}
+.layoutcard{
+	background-color: orange;
+	height: 200px;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+	padding: 30px;
+}
+.men{
+	font-family: 'Roboto';
+	color: black;
+	font-weight: italic;
+}
+.test{
+	font-family: 'Roboto';
+	color: #581845;
+}
+.rg{
+	text-align: center;
+}
